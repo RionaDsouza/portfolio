@@ -3,6 +3,7 @@ body {
     font-weight: 300;
     background-color: #212529;
     color: #F8F9FA;
+    font-size: 14px;
 }
 .about {
     background-image: url("images/hero\ \(4\).svg");
@@ -31,6 +32,7 @@ body {
     flex-direction: column;
     justify-content: center;
     font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2rem;
 }
 .about {
     width: 80%;
@@ -42,6 +44,7 @@ body {
     max-height: 400px;
 }
 .button {
+    color: #212529;
     background-color: #F8F9FA;
     padding: 0.5rem 2rem;
     width: fit-content;
@@ -59,9 +62,63 @@ body {
     width: 100%;
     padding: 2rem;
 }
-h4 {
+h1, h2, h3, h4 {
     font-family: 'Cormorant Garamond', serif;
+}
+h4 {
     font-weight: 600;
     font-size: 2.2rem;
     color: #212529;
 }
+
+/* eatfit start */
+.eatfit h4 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #F8F9FA;
+}
+.eatfit h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    padding-top: 1rem;
+}
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0%;
+}
+.jumbotron-eatfit {
+    margin-top: 50px;
+    min-height: 500px;
+    background: #F9B6B3;
+    color: #1E212B;
+}
+.details {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.info {
+    width: 60%;
+    margin: auto;
+    margin-top: 0%;
+    padding-bottom: 30px;
+    text-align: left;
+}
+.summary {
+    background-color: #F8F9FA; 
+    color: #212529;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.usability {
+    width: 60%;
+    margin: auto;
+}
+.usability img {
+    margin-bottom: 20px;
+}
+/* eatfit end */
