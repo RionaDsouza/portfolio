@@ -48,6 +48,7 @@ body {
     background-color: #F8F9FA;
     padding: 0.5rem 2rem;
     width: fit-content;
+    margin-top: 5px;
 }
 .projects {
     width: 80%;
@@ -117,6 +118,7 @@ h4 {
 .usability {
     width: 60%;
     margin: auto;
+    margin-top: 10px;
 }
 .usability img {
     margin-bottom: 20px;
@@ -125,8 +127,8 @@ h4 {
 
 /* allegro start */
 .allegro {
-    background-color: #FAF3F0;
-    color: #1A1423;
+    background-color: #1A1423;
+    color: #FAF3F0;
 }
 .jumbotron-allegro {
     margin-top: 50px;
@@ -154,9 +156,6 @@ h4 {
 .allegro h5 {
     font-weight: 400;
     margin: 0%;
-}
-.pain {
-    background-color: #FAF3F0;
 }
 .pain_points {
     width: fit-content;
