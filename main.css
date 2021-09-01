@@ -173,3 +173,31 @@ h4 {
     margin-bottom: 0;
 }
 /* allegro end */
+
+/* pf start */
+.jumbotron-pf {
+    background-image: url("images/pet_family/3.png");
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pf {
+    background-color: #333333;
+    color: #EEFBF6;
+}
+.pf h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
+.user-story {
+    background-color: #EEFBF6;
+    color: #333333;
+}
+.ideation h4 {
+    color: #EEFBF6;
+}
+/* pf end */
