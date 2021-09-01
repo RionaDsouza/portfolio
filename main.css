@@ -14,7 +14,7 @@ body {
     background-size: cover;
 }
 .navbar {
-    background-color: transparent;
+    background-color: #212529;
 }
 .navbar a {
     color: #F8F9FA;
@@ -122,3 +122,50 @@ h4 {
     margin-bottom: 20px;
 }
 /* eatfit end */
+
+/* allegro start */
+.allegro {
+    background-color: #FAF3F0;
+    color: #1A1423;
+}
+.jumbotron-allegro {
+    margin-top: 50px;
+    min-height: 500px;
+    background: #C2C2EA;
+    color: #1A1423;
+}
+.allegro h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
+.roles {
+    background-color: #FAF3F0;
+}
+.allegro .summary {
+    background-color: #C2C2EA;
+}
+.overview {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+.allegro h5 {
+    font-weight: 400;
+    margin: 0%;
+}
+.pain {
+    background-color: #FAF3F0;
+}
+.pain_points {
+    width: fit-content;
+    margin: auto;
+}
+.button-dark {
+    color: #F8F9FA;
+    background-color: #212529;
+    padding: 0.5rem 2rem;
+    width: fit-content;
+}
+/* allegro end */
