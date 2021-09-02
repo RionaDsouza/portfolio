@@ -63,6 +63,16 @@ body {
     width: fit-content;
     margin-top: 5px;
 }
+.about-text {
+    margin-top: 70px;
+    color: #F8F9FA;
+}
+.about-body {
+    min-height: 350px;
+}
+.about-text h4 {
+    color: #F8F9FA;
+}
 .projects {
     width: 80%;
     margin: auto;
