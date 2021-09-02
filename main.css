@@ -246,4 +246,7 @@ h4 {
     .exchange {
         display: block;
     }
+    .jumbotron-pf {
+        background-image: url("images/pet_family/3_mob.png");
+    }
 }
