@@ -25,6 +25,17 @@ body {
 .projects img {
     width: 100%;
 }
+.dropdown-menu {
+    border-radius: 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    background-color: #212529;
+    color: #F8F9FA;
+    font-size: 14px;
+}
+.dropdown-item {
+    font-weight: 300;
+}
 .footer {
     color: #F8F9FA;
     background-color: #212529;
@@ -202,6 +213,9 @@ h4 {
 .ideation h4 {
     color: #EEFBF6;
 }
+.exchange {
+    display: none;
+}
 /* pf end */
 
 @media only screen and (max-width: 768px) {
@@ -225,5 +239,11 @@ h4 {
     }
     .hide {
         display: none;
+    }
+    .about {
+        width: 100%;
+    }
+    .exchange {
+        display: block;
     }
 }
