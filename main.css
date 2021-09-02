@@ -203,3 +203,24 @@ h4 {
     color: #EEFBF6;
 }
 /* pf end */
+
+@media only screen and (max-width: 768px) {
+    .hero-text {
+        padding: 1rem;
+    }
+    .summary {
+        text-align: left;
+    }
+    .info {
+        width: 90%;
+    }
+    .details {
+        width: 90%;
+    }
+    .usability {
+        width: 90%;
+    }
+    .overview {
+        width: 90%
+    }
+}
