@@ -223,4 +223,7 @@ h4 {
     .overview {
         width: 90%
     }
+    .hide {
+        display: none;
+    }
 }
