@@ -4,6 +4,7 @@ body {
     background-color: #212529;
     color: #F8F9FA;
     font-size: 14px;
+    text-align: justify;
 }
 .about {
     background-image: url("images/hero\ \(4\).svg");
@@ -69,6 +70,7 @@ body {
 }
 .about-body {
     min-height: 350px;
+    text-align: justify;
 }
 .about-text h4 {
     color: #F8F9FA;
@@ -132,7 +134,7 @@ h4 {
     margin: auto;
     margin-top: 0%;
     padding-bottom: 30px;
-    text-align: left;
+    text-align: justify;
 }
 .summary {
     background-color: #F8F9FA; 
@@ -177,6 +179,7 @@ h4 {
     width: 50%;
     margin: auto;
     padding-bottom: 40px;
+    text-align: justify;
 }
 .allegro h5 {
     font-weight: 400;
@@ -235,7 +238,7 @@ h4 {
         padding: 1rem;
     }
     .summary {
-        text-align: left;
+        text-align: justify;
     }
     .info {
         width: 90%;
